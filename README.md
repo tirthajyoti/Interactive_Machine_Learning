@@ -1,3 +1,4 @@
+<p align="center"><img src=https://raw.githubusercontent.com/tirthajyoti/Interactive_Machine_Learning/master/Interactive_ML.gif/></p>
 
 ## Widgets
 
