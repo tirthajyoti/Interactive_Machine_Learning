@@ -31,4 +31,3 @@ Next, We introduce interactive control for the following hyperparameters.
 User can interact with the linear regression model using these controls. Note, how the test and training scores are also updated dynamically to show a trend of over-fitting or under-fitting as the model complexity changes. One can go back to the data generation control and increase of decrease the noise magnitude to see its impact on the fitting quality and bias/variance trade-off.
 
 [***Check this article***](https://towardsdatascience.com/interactive-machine-learning-make-python-lively-again-a96aec7e1627) I wrote on Medium about this project.
->>>>>>> 1d881ff0a911cd7f72fb75cf9d2c51a9c437c077
