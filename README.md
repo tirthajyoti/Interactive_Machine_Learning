@@ -4,6 +4,12 @@
 
 Notebooks come alive when interactive widgets are used. Users can visualize and control changes in the data and the model. Learning becomes an immersive, plus fun, experience.
 
+## Try it now
+
+Click here to run this repo now in a live JupyterLab workspace:
+
+[![Run on FloydHub](https://static.floydhub.com/button/button.svg)](https://floydhub.com/run)
+
 ## What is Python Widget?
 
 Project Jupyter was born out of the IPython Project in 2014 and evolved rapidly to support interactive data science and scientific computing across all major programming languages. There is no doubt that it has left one of the biggest degrees of impact on how a data scientist can quickly test and prototype his/her idea and showcase the work to peers and open-source community.

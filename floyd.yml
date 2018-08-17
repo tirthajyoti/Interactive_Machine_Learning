@@ -1,0 +1,2 @@
+env: tensorflow-1.7
+machine: cpu
