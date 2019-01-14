@@ -1,4 +1,11 @@
 # Interactive Machine Learning (with [IPython Widgets](https://ipywidgets.readthedocs.io))
+
+[![GitHub issues](https://img.shields.io/github/issues/tirthajyoti/Interactive_Machine_Learning.svg)](https://github.com/tirthajyoti/Interactive_Machine_Learning/issues)
+[![GitHub forks](https://img.shields.io/github/forks/tirthajyoti/Interactive_Machine_Learning.svg)](https://github.com/tirthajyoti/Interactive_Machine_Learning/network)
+[![GitHub stars](https://img.shields.io/github/stars/tirthajyoti/Interactive_Machine_Learning.svg)](https://github.com/tirthajyoti/Interactive_Machine_Learning/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/tirthajyoti/Interactive_Machine_Learning/pulls)
+[![Github commits](https://img.shields.io/github/commit-activity/y/tirthajyoti/Interactive_Machine_Learning.svg)](https://github.com/tirthajyoti/Interactive_Machine_Learning/stats/contributors)
+
 <p align="center"><img src="https://raw.githubusercontent.com/tirthajyoti/Interactive_Machine_Learning/master/Interactive_ML.gif"/></p>
 
 ## Widgets
