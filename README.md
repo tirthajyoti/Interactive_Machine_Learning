@@ -1,4 +1,4 @@
-## Feel free to [add me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and like to connect.
+## Please feel free to [add me here on LinkedIn](https://www.linkedin.com/in/tirthajyoti-sarkar-2127aa7/) if you are interested in data science and like to connect.
 
 # Interactive Machine Learning (with [IPython Widgets](https://ipywidgets.readthedocs.io))
 
